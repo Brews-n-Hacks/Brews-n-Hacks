@@ -7,7 +7,10 @@ Drawing from these experiences, I bring to the table a unique set of skills. Fro
 
 > 	_*"CNVP" is an abbreviation for "CompTIA Network Vulnerability Assessment Professional". CompTIA's certifications are stackable, and this denotes which stackable certifications the individual has, and what expertise level they perform at. More info on this at their website. (__[Go to CompTIA](https://www.comptia.org/certifications/which-certification/stackable-certifications#cybersecurity)__)_
 # Resume 
-Here's a link to my... well, resumes are boring. You can check it out if you're interested, but I think it would be more preferable to dig into my portfolio of projects. I'm constantly learning and digging into new things, so I'm sure there's something for everyone. 
+Here's a link to my... 
+Well, resumes are boring.
+You can certainly check it out if you're interested, but I think it would be more preferable to dig into my portfolio of projects. 
+I'm constantly learning and digging into new things, so I'm sure there's something for everyone. 
 Oh yeah... here's that [resume](https://github.com/Brews-n-Hacks/The_Creds/blob/main/Resume4Roast.pdf).
 # Portfolio
 Alright, so here's the exciting stuff. I think it may be appropriate to break this down into categories:
