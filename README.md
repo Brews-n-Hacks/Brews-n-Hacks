@@ -1,4 +1,4 @@
-KIA ORA! I'm Ryan Pearson, CNVP*
+# KIA ORA! I'm Ryan Pearson, CNVP*
 
 A little about me – I'm a devoted Christian, proud father, and loving husband. Instead of settling for a mundane job, I've been fortunate enough to turn my passion for learning, problem-solving, and all things tech into my vocation. Who knew you could make a living doing what you love?!
 
