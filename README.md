@@ -10,7 +10,7 @@ Here's a link to my...
 Well, resumes are boring.
 You can certainly check it out if you're interested, but I think it would be more preferable to dig into my portfolio of projects. 
 I'm constantly learning and digging into new things, so I'm sure there's something for everyone. 
-Oh yeah... here's that [resume](https://github.com/Brews-n-Hacks/The_Creds/blob/main/Resume4Roast.pdf).
+Oh yeah... here's that [resume](https://github.com/Brews-n-Hacks/The_Creds/blob/main/Redacted_Resume.pdf).
 # Portfolio
 Alright, so here's the exciting stuff. I think it may be appropriate to break this down into categories:
 ## Cloud
