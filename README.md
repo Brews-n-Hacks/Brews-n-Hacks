@@ -12,16 +12,13 @@ You can certainly check it out if you're interested, but I think it would be mor
 I'm constantly learning and digging into new things, so I'm sure there's something for everyone. 
 Oh yeah... here's that [resume](https://github.com/Brews-n-Hacks/The_Creds/blob/main/Redacted_Resume.pdf).
 # Portfolio
-Alright, so here's the exciting stuff. I think it may be appropriate to break this down into categories:
+Alright, so here's the exciting stuff. You can find several CTF competition scores, certificates, and certifications I have under my belt in my repo, [The_Creds](https://github.com/Brews-n-Hacks/The_Creds). I think it may be appropriate to break this down into categories:
 ## Cloud
-
+- I have registered for a Hacking AWS course I'm looking forward to post about.
 ## Networking
-
-## [Scripting](https://github.com/Brews-n-Hacks/The_Creds/tree/main/Scripting)
-### BASH
-
-### [Python](https://github.com/Brews-n-Hacks/The_Creds/tree/main/Scripting/Python)
-
-### Rust
-
-## Security
+- I am currently recording a walk through on how to secure your home network. Stay tuned.
+## [Scripting](https://github.com/Brews-n-Hacks/The_Hacks/tree/main/Scripting)
+- BASH
+- [Python](https://github.com/Brews-n-Hacks/The_Hacks/tree/main/Scripting/Python)
+- Rust
+## [Security](https://github.com/Brews-n-Hacks/The_Hacks)
