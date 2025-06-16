@@ -22,3 +22,7 @@ Alright, so here's the exciting stuff. You can find several CTF competition scor
 - [Python](https://github.com/Brews-n-Hacks/The_Hacks/tree/main/Scripting/Python)
 - Rust
 ## [Security](https://github.com/Brews-n-Hacks/The_Hacks)
+- How to set up a safe and secure [homelab](https://github.com/Brews-n-Hacks/The_Hacks/blob/main/Home_Lab/Home_Lab_Set-up.md) for PenTesting practice
+- [PenTesting walkthroughs](https://github.com/Brews-n-Hacks/The_Hacks/tree/main/Home_Lab)
+### - OSInt
+  - Leveraging intelligence from [Ransomlook.io](https://github.com/Brews-n-Hacks/The_Hacks/blob/main/OSInt/Ransomlook.md)
